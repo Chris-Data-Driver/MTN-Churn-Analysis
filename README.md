@@ -1,6 +1,5 @@
 # MTN-Churn-Analysis
-
-## Introduction:
+![Dashboard view](https://github.com/Chris-Data-Driver/MTN-Churn-Analysis/blob/main/MTN.png)
 
 
 ## 📌 Problem Statement:
