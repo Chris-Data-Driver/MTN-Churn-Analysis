@@ -37,7 +37,7 @@ These indicate pricing and service issues are driving customers away.
 📦 Subscription Plans: Some plans like 60GB Monthly and 30GB FUP Monthly Unlimited showed a higher churn, possibly due to unmet expectations.
 
 ## 🔍 Detailed Analysis / Methodology
-The analysis was conducted using customer data, data was sourced from **Kaggle**. **Data Preparation** Data was cleaned and transformed for analysis and visualized with **Microsoft Excel.**
+The analysis was conducted using customer data, data was sourced from **Kaggle**. **Data Preparation:** Data was cleaned and transformed for analysis and visualized with **Microsoft Excel.**
 The dashboard segments churn by:
 **Gender:** Slightly higher churn in females despite equal gender distribution.
 
